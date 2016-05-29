@@ -28,8 +28,7 @@ button {
 	color: #fff;
 }
 
-#items-needed,
-#items-cart {
+.items {
 	text-align: center;
 }
 
@@ -38,9 +37,16 @@ h2 {
 	text-decoration: underline;
 }
 
-ul {
+.need,
+.cart {
 	list-style-type: none;
 	font-size: 1.5em;
-	vertical-align: middle;
 }
 
+.cart {
+	color: #7F7F7F;
+}
+.text {
+	padding-left: 4em;
+	padding-right: 4.5em;
+}
