@@ -8,6 +8,18 @@ h1 {
 	text-decoration: underline;
 }
 
-.input {
-	align-content: center;
+#input-items {
+	display: flex;
+	justify-content: center;
+}
+
+.input-text {
+	margin-right: 3em;
+}
+
+button {
+	background-color: #404040;
+	border-radius: 4px;
+	border: none;
+	color: #fff;
 }
