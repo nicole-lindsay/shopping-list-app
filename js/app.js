@@ -1,0 +1,1 @@
+$(".need").append('<li><span class="check">&#10004;</span><span class="text">'+$("input").val()+'</span><span class="ex">&#10006;</span></li>');
