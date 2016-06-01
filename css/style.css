@@ -48,3 +48,18 @@ h2 {
 .cart {
 	color: #7F7F7F;
 }
+
+.check,
+.ex,
+.arrow {
+	cursor: pointer;
+}
+
+.check,
+.arrow {
+	padding-right: 3em;
+}
+
+.ex {
+	padding-left: 3em;
+}
