@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-$(".need").append('<li><span class="check">&#10004;</span><span class="text">'+$("input").val()+'</span><span class="ex">&#10006;</span></li>');
-=======
 $(document).ready(function() {
     $('#add').click(function() {
         $('.need').append('<li><span class="check">&#10004;</span><span class="need-text">' + $('input').val() + '</span><span class="ex">&#10006;</span></li>');
