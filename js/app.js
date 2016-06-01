@@ -9,4 +9,4 @@ $(document).ready(function() {
         $('.cart').append('<li><span class="arrow">&#8673;</span><span class="cart-text">' + $('.need-text').val() + '</span><span class="ex">&#10006;</span></li>');
     });
 });
->>>>>>> afe22871bbe2a5d91845b6093b9613e64b291494
+
