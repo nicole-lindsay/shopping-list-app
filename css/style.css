@@ -73,6 +73,7 @@ h2 {
 .ex {
 	padding-left: 3em;	
 }
+
 .ex:hover {
 	color: red;
 }
