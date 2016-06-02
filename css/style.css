@@ -60,6 +60,18 @@ h2 {
 	padding-right: 3em;
 }
 
+.check:hover {
+	color: green;
+}
+
+.arrow:hover {
+	color: purple;
+	font-weight: bold;
+}
+
 .ex {
-	padding-left: 3em;
+	padding-left: 3em;	
+}
+.ex:hover {
+	color: red;
 }
